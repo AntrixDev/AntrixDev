@@ -1,4 +1,4 @@
-#Hey there 👋
+# Hey there 👋
 
 I'm Annie, a programming student from Kraków, Poland, passionate about creating innovative tech.
 
