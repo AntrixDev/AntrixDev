@@ -19,3 +19,5 @@ Outside of coding, I’m into **calisthenics** for strength, **video games** for
 I'm so excited to grow and contribute to the tech community.
 
 Thanks for visiting! (‾◡◝)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:d55586,50:9f6396,100:5360ab&text=%20&fontAlign=49&section=footer" alt="Footer Wave"/>
