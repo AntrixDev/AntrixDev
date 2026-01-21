@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffffff,20:ffacc6,80:e04a85&section=header" alt="Wavy gif>"
+
 # Hey there 👋
 
 I'm Annie, a programming student from Kraków, Poland, passionate about creating innovative tech.
