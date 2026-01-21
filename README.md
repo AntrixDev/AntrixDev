@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffffff,20:ffacc6,80:e04a85&section=header" alt="Wavy gif>"
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:d55586,50:9f6396,100:5360ab&text=%20&fontAlign=49" alt="Header Wave"/>
 
 # Hey there 👋
 
