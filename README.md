@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:d55586,50:9f6396,100:5360ab&text=%20&fontAlign=50&fontSize=40&fontColor=FFFFFF&section=header" alt="Header Wave" style="margin:0;"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D55586&multiline=true&random=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" style="display:inline-block;"/>/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D55586&multiline=true&random=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" style="display:inline-block;"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:d55586,50:9f6396,100:5360ab&text=AntrixDev&fontAlign=50&fontSize=40&fontColor=FFFFFF" alt="logo" style="margin:0;"/>
 
