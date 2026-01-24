@@ -19,7 +19,6 @@
 
 </p>
 
-<hr>
 <br>
 
 <div align="center">
@@ -71,7 +70,6 @@
  </details>
 </div>
 <br>
-<hr>
 
 ![Instagram](https://img.shields.io/badge/-@antrixDev-black?style=social&logo=instagram&logoColor=e593b2&link=https://www.youtube.com)<br>
 [![Gmail Badge](https://img.shields.io/badge/-x.aniutka@gmail.com-c14438?style=social&logo=Gmail&logoColor=e593b2&link=mailto:email@anuragsingh.dev)](mailto:email@anuragsingh.dev)
