@@ -51,8 +51,8 @@
   <summary><h3> What I’m Currently Working On? </h3></summary>
   <br />
 
-  <a href="https://github.com/AntrixDev/DJSlicer">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AntrixDev&repo=DJSlicer&theme=react&bg_color=1e242a&title_color=e593b2&hide_border=true&icon_color=F8D866&show_icons=false" alt="DJSlicer Pin" align="center">
+  <a href="https://github.com/AntrixDev/Cafee-Focus-App">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AntrixDev&repo=Cafee-Focus-App&theme=react&bg_color=1e242a&title_color=e593b2&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cafee-Focus-App Pin" align="center">
   </a>
 
 </details>
