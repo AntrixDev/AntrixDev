@@ -30,6 +30,7 @@
 <br/>
 
 <p align="left">Am I learning too many languages at the same time?</p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntrixDev&layout=compact&theme=react&hide_border=true&title_color=e593b2&bg_color=1e242a" alt="Top Langs" height="150px" /></p>
 <p align="left"><b>Maybe.. ˙𐃷˙</b></p>
 
 <br>
