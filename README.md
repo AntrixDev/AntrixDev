@@ -4,6 +4,8 @@
    <img src="https://readme-typing-svg.demolab.com?font=Tinos&weight=500&size=24&pause=1000&color=E593B2&center=true&width=500&lines=Welcome+to+my+profile!+;3rd+Year+Software+Dev+Student;Exploring+cybersecurity;Building+interactive+web+experiences;Learning+AI+%26+automation;Turning+ideas+into+personal+projects" alt="Typing SVG" />
 </p>
 
+<br/>
+
 <p> 
   I'm <strong>Annie</strong>, a Junior Fullstack Developer from 
   <img src="https://cdn-icons-png.flaticon.com/512/323/323338.png" width="10"/> 
@@ -13,9 +15,22 @@
 <p>
   From design to development, I love the entire process of building software. I focus on <b>maintainability</b>, <b>performance</b>, and <b>security</b> in all of my projects, following best practices and learning many things along the way.
 </p>
+
+<h3> 🛠️ Core Focus & Tools </h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Main_Stack-TypeScript%2C%20React%2C%20Node-e593b2?style=flat-square" alt="Main Stack">
+  <img src="https://img.shields.io/badge/Learning-Cybersecurity%20%26%20AI-9f6396?style=flat-square" alt="Learning">
+  <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Security-5360ab?style=flat-square" alt="Focus">
+</p>
+
+• **I’m currently working on:** Enhancing [DJSlicer](https://github.com/AntrixDev/DJSlicer) with better automation. <br/>
+• **Cybersecurity path:** Learning about OWASP Top 10 and secure API design.<br/>
+• **AI Interests:** Exploring how to integrate LLMs into personal workflow automation.
+
+
 <br/>
 <p align="left">
-  Am I learning too many languages at the same time? <br/> <b>Maybe..</b>
+  Am I learning too many languages at the same time? <br/> <b>Maybe.. ˙𐃷˙</b>
 
 </p>
 
@@ -23,7 +38,7 @@
 
 <div align="center">
 <details open> 
-  <summary ><strong> My Top Open Source Projects 👈(ﾟヮﾟ👈) </strong></summary>
+  <summary ><h3> My Top Open Source Projects 👈(ﾟヮﾟ👈) </h3></summary>
 <br />
   <p align="center">
     
@@ -36,7 +51,7 @@
 <br>
 <div align="center">
 <details> 
-  <summary><strong> What I’m Currently Working On? </strong></summary>
+  <summary><h3> What I’m Currently Working On? </h3></summary>
   <br />
 
   <a href="https://github.com/AntrixDev/DJSlicer">
@@ -48,7 +63,7 @@
 <br>
 <div align="center">
     <details>
-        <summary><b>GitHub Metrics </b></summary><br/>
+        <summary><h3>GitHub Metrics </h3></summary><br/>
 
 |  **Technology** |  **Projects** |
 | :--- | :--- |
