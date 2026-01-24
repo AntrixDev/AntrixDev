@@ -4,35 +4,33 @@
    <img src="https://readme-typing-svg.demolab.com?font=Tinos&weight=500&size=24&pause=1000&color=E593B2&center=true&width=500&lines=Welcome+to+my+profile!+;3rd+Year+Software+Dev+Student;Exploring+cybersecurity;Building+interactive+web+experiences;Learning+AI+%26+automation;Turning+ideas+into+personal+projects" alt="Typing SVG" />
 </p>
 
-<br/>
-
 <p> 
   I'm <strong>Annie</strong>, a Junior Fullstack Developer from 
   <img src="https://cdn-icons-png.flaticon.com/512/323/323338.png" width="10"/> 
   <b>Kraków, Poland.</b>
 </p>
 
+<br/>
+
+•  ***Technical School Student*** (3rd Year, Software Development) <br/>
+•  ***Cybersecurity focus:*** Deep-diving into OWASP Top 10 and secure-by-design principles.<br/>
+•  ***AI Experimentation:*** Building automated workflows and exploring LLM integrations.<br/>
+•  ***Currently Seeking:*** **Internships**, **Apprenticeships**, or **Junior Fullstack** roles to kickstart my professional career. <br/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Main_Stack-TypeScript%2C%20JavaScript%2C%20React-e593b2?style=flat-square" alt="Main Stack">
+  <img src="https://img.shields.io/badge/Learning-Cybersecurity%20%26%20AI-9f6396?style=flat-square" alt="Learning">
+  <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Modern%20UI-5360ab?style=flat-square&logoColor=white" alt="Focus">
+</p>
+
 <p>
   From design to development, I love the entire process of building software. I focus on <b>maintainability</b>, <b>performance</b>, and <b>security</b> in all of my projects, following best practices and learning many things along the way.
 </p>
 
-<h3> 🛠️ Core Focus & Tools </h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Main_Stack-TypeScript%2C%20React%2C%20Node-e593b2?style=flat-square" alt="Main Stack">
-  <img src="https://img.shields.io/badge/Learning-Cybersecurity%20%26%20AI-9f6396?style=flat-square" alt="Learning">
-  <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Security-5360ab?style=flat-square" alt="Focus">
-</p>
-
-• **I’m currently working on:** Enhancing [DJSlicer](https://github.com/AntrixDev/DJSlicer) with better automation. <br/>
-• **Cybersecurity path:** Learning about OWASP Top 10 and secure API design.<br/>
-• **AI Interests:** Exploring how to integrate LLMs into personal workflow automation.
-
-
 <br/>
-<p align="left">
-  Am I learning too many languages at the same time? <br/> <b>Maybe.. ˙𐃷˙</b>
 
-</p>
+<p align="left">Am I learning too many languages at the same time?</p>
+<p align="left"><b>Maybe.. ˙𐃷˙</b></p>
 
 <br>
 
