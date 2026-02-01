@@ -40,7 +40,7 @@
   <p align="center">
     
 <a href="https://github.com/AntrixDev/DJSlicer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AntrixDev&repo=DJSlicer&theme=react&bg_color=1e242a&title_color=e593b2&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-<a href="https://github.com/AntrixDev/DJSlicer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AntrixDev&repo=DJSlicer&theme=react&bg_color=1e242a&title_color=9299c8&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/AntrixDev/DJSlicer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AntrixDev&repo=Cursor-Responsive-Text&theme=react&bg_color=1e242a&title_color=9299c8&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 
   </p>
 </details>
