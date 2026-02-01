@@ -64,7 +64,7 @@
 
 |  **Technology** |  **Projects** |
 | :--- | :--- |
-| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)](#) | |
+| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)](#) | [![DJSlicer](https://img.shields.io/static/v1?label=&message=Cafee-Focus-App&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AntrixDev/Cafee-Focus-App) |
 | [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=ED8B00)](#) | |
 | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#) | |
 | [![C++](https://img.shields.io/badge/C++-9C033A?style=flat&logo=c%2B%2B&logoColor=white)](#) | |
