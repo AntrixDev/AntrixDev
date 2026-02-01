@@ -64,9 +64,9 @@
 
 |  **Technology** |  **Projects** |
 | :--- | :--- |
-| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)](#) | [![DJSlicer](https://img.shields.io/static/v1?label=&message=Cafee-Focus-App&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AntrixDev/Cafee-Focus-App) |
+| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)](#) | [![Cafee-Focus-App](https://img.shields.io/static/v1?label=&message=Cafee-Focus-App&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AntrixDev/Cafee-Focus-App) |
 | [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=ED8B00)](#) | |
-| [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#) | |
+| [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#) | [![Cursor-Responsive-Text](https://img.shields.io/static/v1?label=&message=Cursor-Responsive-Text&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AntrixDev/Cursor-Responsive-Text) |
 | [![C++](https://img.shields.io/badge/C++-9C033A?style=flat&logo=c%2B%2B&logoColor=white)](#) | |
 | [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white&labelColor=DB7093)](#) | |
 | [![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white)](#) | |
