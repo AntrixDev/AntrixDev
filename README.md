@@ -75,7 +75,7 @@
 | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#) | |
 | [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](#) | |
 | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](#) | [![DJSlicer](https://img.shields.io/static/v1?label=&message=DJSlicer&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AntrixDev/DJSlicer) |
-| [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)](#) | |
+| [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white)](#) | [![Components-Buttons](https://img.shields.io/static/v1?label=&message=Components-Buttons&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AntrixDev/Components-Buttons) |
 | [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white)](#) | |
 | [![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)](#) | |
 
