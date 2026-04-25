@@ -51,8 +51,8 @@
   <summary><h3> What I’m Currently Working On? </h3></summary>
   <br />
 
-  <a href="https://github.com/AntrixDev/Cafee-Focus-App">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AntrixDev&repo=Cafee-Focus-App&theme=react&bg_color=1e242a&title_color=e593b2&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cafee-Focus-App Pin" align="center">
+  <a href="https://github.com/AntrixDev/RaceTheFocus">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AntrixDev&repo=RaceTheFocus&theme=react&bg_color=1e242a&title_color=e593b2&hide_border=true&icon_color=F8D866&show_icons=false" alt="RaceTheFocus App" align="center">
   </a>
 
 </details>
@@ -64,7 +64,7 @@
 
 |  **Technology** |  **Projects** |
 | :--- | :--- |
-| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)](#) | [![Cafee-Focus-App](https://img.shields.io/static/v1?label=&message=Cafee-Focus-App&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AntrixDev/Cafee-Focus-App) |
+| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E)](#) | [![RaceTheFocus](https://img.shields.io/static/v1?label=&message=RaceTheFocus&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AntrixDev/RaceTheFocus) |
 | [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=ED8B00)](#) | |
 | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#) | [![Cursor-Responsive-Text](https://img.shields.io/static/v1?label=&message=Cursor-Responsive-Text&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AntrixDev/Cursor-Responsive-Text) |
 | [![C++](https://img.shields.io/badge/C++-9C033A?style=flat&logo=c%2B%2B&logoColor=white)](#) | |
