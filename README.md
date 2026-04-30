@@ -51,8 +51,8 @@
   <summary><h3> What I’m Currently Working On? </h3></summary>
   <br />
 
-  <a href="https://github.com/AntrixDev/RaceTheFocus">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AntrixDev&repo=RaceTheFocus&theme=react&bg_color=1e242a&title_color=e593b2&hide_border=true&icon_color=F8D866&show_icons=false" alt="RaceTheFocus App" align="center">
+  <a href="https://github.com/AntrixDev/WORMS3D">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AntrixDev&repo=WORMS3D&theme=react&bg_color=1e242a&title_color=e593b2&hide_border=true&icon_color=F8D866&show_icons=false" alt="WORMS3D" align="center">
   </a>
 
 </details>
@@ -74,7 +74,7 @@
 | [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](#) | |
 | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#) | |
 | [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](#) | |
-| [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](#) | [![DJSlicer](https://img.shields.io/static/v1?label=&message=DJSlicer&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AntrixDev/DJSlicer) |
+| [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](#) | [![DJSlicer](https://img.shields.io/static/v1?label=&message=DJSlicer&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AntrixDev/DJSlicer) [![WORMS3D](https://img.shields.io/static/v1?label=&message=WORMS3D&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/AntrixDev/WORMS3D) |
 | [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white)](#) | |
 | [![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)](#) | |
 
